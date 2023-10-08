@@ -1,2 +1,2 @@
-#!/bin/bash
-mktemp -d my-script
+#!/bin/bash 
+mktemp -d -t my_shit-xxx
